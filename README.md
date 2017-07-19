@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Chatbot for Facebook Messenger
 
-You can use the [editor on GitHub](https://github.com/jparajuli/yatri/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Yatri is an AI powered chatbot, created for facebook messenger platform. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some of the tasks yatri does are: 
+* tell the news
+* tell some jokes
+* answers general knowledge questions like capital and currencies of a country
+* sends some funny pictures
+* does interesting and philosophical conversation
+
 
 ### Markdown
 
